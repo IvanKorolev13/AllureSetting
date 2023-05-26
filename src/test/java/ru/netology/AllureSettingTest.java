@@ -17,7 +17,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static java.lang.Integer.parseInt;
 import static ru.netology.DataGenerator.*;
 
-class PatternsTask1Test {
+class AllureSettingTest {
     String locale = "ru";
     String errorMessageEmptyField = "обязательно для заполнения";
     String errorMessageIncorrectCity = "Доставка в выбранный город недоступна";
